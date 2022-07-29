@@ -1,0 +1,17 @@
+/Users/etocans/Projects/CarRentalProject/Business/bin/Debug/netstandard2.1/Business.deps.json
+/Users/etocans/Projects/CarRentalProject/Business/bin/Debug/netstandard2.1/Business.dll
+/Users/etocans/Projects/CarRentalProject/Business/bin/Debug/netstandard2.1/Business.pdb
+/Users/etocans/Projects/CarRentalProject/Business/bin/Debug/netstandard2.1/DataAccess.dll
+/Users/etocans/Projects/CarRentalProject/Business/bin/Debug/netstandard2.1/Entities.dll
+/Users/etocans/Projects/CarRentalProject/Business/bin/Debug/netstandard2.1/Entities.pdb
+/Users/etocans/Projects/CarRentalProject/Business/bin/Debug/netstandard2.1/DataAccess.pdb
+/Users/etocans/Projects/CarRentalProject/Business/obj/Debug/netstandard2.1/Business.csproj.AssemblyReference.cache
+/Users/etocans/Projects/CarRentalProject/Business/obj/Debug/netstandard2.1/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/etocans/Projects/CarRentalProject/Business/obj/Debug/netstandard2.1/Business.AssemblyInfoInputs.cache
+/Users/etocans/Projects/CarRentalProject/Business/obj/Debug/netstandard2.1/Business.AssemblyInfo.cs
+/Users/etocans/Projects/CarRentalProject/Business/obj/Debug/netstandard2.1/Business.csproj.CoreCompileInputs.cache
+/Users/etocans/Projects/CarRentalProject/Business/obj/Debug/netstandard2.1/Business.csproj.CopyComplete
+/Users/etocans/Projects/CarRentalProject/Business/obj/Debug/netstandard2.1/Business.dll
+/Users/etocans/Projects/CarRentalProject/Business/obj/Debug/netstandard2.1/Business.pdb
+/Users/etocans/Projects/CarRentalProject/Business/bin/Debug/netstandard2.1/Core.dll
+/Users/etocans/Projects/CarRentalProject/Business/bin/Debug/netstandard2.1/Core.pdb

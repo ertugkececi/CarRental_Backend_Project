@@ -1,0 +1,15 @@
+/Users/etocans/Projects/CarRentalProject/DataAccess/bin/Debug/netstandard2.1/DataAccess.deps.json
+/Users/etocans/Projects/CarRentalProject/DataAccess/bin/Debug/netstandard2.1/DataAccess.dll
+/Users/etocans/Projects/CarRentalProject/DataAccess/bin/Debug/netstandard2.1/DataAccess.pdb
+/Users/etocans/Projects/CarRentalProject/DataAccess/bin/Debug/netstandard2.1/Entities.dll
+/Users/etocans/Projects/CarRentalProject/DataAccess/bin/Debug/netstandard2.1/Entities.pdb
+/Users/etocans/Projects/CarRentalProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.AssemblyReference.cache
+/Users/etocans/Projects/CarRentalProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/etocans/Projects/CarRentalProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.AssemblyInfoInputs.cache
+/Users/etocans/Projects/CarRentalProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.AssemblyInfo.cs
+/Users/etocans/Projects/CarRentalProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.CoreCompileInputs.cache
+/Users/etocans/Projects/CarRentalProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.csproj.CopyComplete
+/Users/etocans/Projects/CarRentalProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.dll
+/Users/etocans/Projects/CarRentalProject/DataAccess/obj/Debug/netstandard2.1/DataAccess.pdb
+/Users/etocans/Projects/CarRentalProject/DataAccess/bin/Debug/netstandard2.1/Core.dll
+/Users/etocans/Projects/CarRentalProject/DataAccess/bin/Debug/netstandard2.1/Core.pdb

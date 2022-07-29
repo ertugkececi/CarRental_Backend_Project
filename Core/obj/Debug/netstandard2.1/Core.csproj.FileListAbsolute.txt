@@ -1,0 +1,10 @@
+/Users/etocans/Projects/CarRentalProject/Core/bin/Debug/netstandard2.1/Core.deps.json
+/Users/etocans/Projects/CarRentalProject/Core/bin/Debug/netstandard2.1/Core.dll
+/Users/etocans/Projects/CarRentalProject/Core/bin/Debug/netstandard2.1/Core.pdb
+/Users/etocans/Projects/CarRentalProject/Core/obj/Debug/netstandard2.1/Core.csproj.AssemblyReference.cache
+/Users/etocans/Projects/CarRentalProject/Core/obj/Debug/netstandard2.1/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/etocans/Projects/CarRentalProject/Core/obj/Debug/netstandard2.1/Core.AssemblyInfoInputs.cache
+/Users/etocans/Projects/CarRentalProject/Core/obj/Debug/netstandard2.1/Core.AssemblyInfo.cs
+/Users/etocans/Projects/CarRentalProject/Core/obj/Debug/netstandard2.1/Core.csproj.CoreCompileInputs.cache
+/Users/etocans/Projects/CarRentalProject/Core/obj/Debug/netstandard2.1/Core.dll
+/Users/etocans/Projects/CarRentalProject/Core/obj/Debug/netstandard2.1/Core.pdb

@@ -6894,11 +6894,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/etocans/Projects/CarRentalBackendProject/Entities/Entities.csproj",
+      "projectUniqueName": "/Users/etocans/Documents/GitHub/CarRental_Backend_Project/Entities/Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "/Users/etocans/Projects/CarRentalBackendProject/Entities/Entities.csproj",
+      "projectPath": "/Users/etocans/Documents/GitHub/CarRental_Backend_Project/Entities/Entities.csproj",
       "packagesPath": "/Users/etocans/.nuget/packages/",
-      "outputPath": "/Users/etocans/Projects/CarRentalBackendProject/Entities/obj/",
+      "outputPath": "/Users/etocans/Documents/GitHub/CarRental_Backend_Project/Entities/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/etocans/.nuget/NuGet/NuGet.Config"
@@ -6913,8 +6913,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "/Users/etocans/Projects/CarRentalBackendProject/Core/Core.csproj": {
-              "projectPath": "/Users/etocans/Projects/CarRentalBackendProject/Core/Core.csproj"
+            "/Users/etocans/Documents/GitHub/CarRental_Backend_Project/Core/Core.csproj": {
+              "projectPath": "/Users/etocans/Documents/GitHub/CarRental_Backend_Project/Core/Core.csproj"
             }
           }
         }

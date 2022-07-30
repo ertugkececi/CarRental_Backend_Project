@@ -6913,11 +6913,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/etocans/Projects/CarRentalBackendProject/DataAccess/DataAccess.csproj",
+      "projectUniqueName": "/Users/etocans/Documents/GitHub/CarRental_Backend_Project/DataAccess/DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "/Users/etocans/Projects/CarRentalBackendProject/DataAccess/DataAccess.csproj",
+      "projectPath": "/Users/etocans/Documents/GitHub/CarRental_Backend_Project/DataAccess/DataAccess.csproj",
       "packagesPath": "/Users/etocans/.nuget/packages/",
-      "outputPath": "/Users/etocans/Projects/CarRentalBackendProject/DataAccess/obj/",
+      "outputPath": "/Users/etocans/Documents/GitHub/CarRental_Backend_Project/DataAccess/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/etocans/.nuget/NuGet/NuGet.Config"
@@ -6932,8 +6932,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "/Users/etocans/Projects/CarRentalBackendProject/Entities/Entities.csproj": {
-              "projectPath": "/Users/etocans/Projects/CarRentalBackendProject/Entities/Entities.csproj"
+            "/Users/etocans/Documents/GitHub/CarRental_Backend_Project/Entities/Entities.csproj": {
+              "projectPath": "/Users/etocans/Documents/GitHub/CarRental_Backend_Project/Entities/Entities.csproj"
             }
           }
         }

@@ -8,3 +8,13 @@
 /Users/etocans/Projects/CarRentalProject/Core/obj/Debug/netstandard2.1/Core.csproj.CoreCompileInputs.cache
 /Users/etocans/Projects/CarRentalProject/Core/obj/Debug/netstandard2.1/Core.dll
 /Users/etocans/Projects/CarRentalProject/Core/obj/Debug/netstandard2.1/Core.pdb
+/Users/etocans/Documents/GitHub/CarRental_Backend_Project/Core/bin/Debug/netstandard2.1/Core.deps.json
+/Users/etocans/Documents/GitHub/CarRental_Backend_Project/Core/bin/Debug/netstandard2.1/Core.dll
+/Users/etocans/Documents/GitHub/CarRental_Backend_Project/Core/bin/Debug/netstandard2.1/Core.pdb
+/Users/etocans/Documents/GitHub/CarRental_Backend_Project/Core/obj/Debug/netstandard2.1/Core.csproj.AssemblyReference.cache
+/Users/etocans/Documents/GitHub/CarRental_Backend_Project/Core/obj/Debug/netstandard2.1/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/etocans/Documents/GitHub/CarRental_Backend_Project/Core/obj/Debug/netstandard2.1/Core.AssemblyInfoInputs.cache
+/Users/etocans/Documents/GitHub/CarRental_Backend_Project/Core/obj/Debug/netstandard2.1/Core.AssemblyInfo.cs
+/Users/etocans/Documents/GitHub/CarRental_Backend_Project/Core/obj/Debug/netstandard2.1/Core.csproj.CoreCompileInputs.cache
+/Users/etocans/Documents/GitHub/CarRental_Backend_Project/Core/obj/Debug/netstandard2.1/Core.dll
+/Users/etocans/Documents/GitHub/CarRental_Backend_Project/Core/obj/Debug/netstandard2.1/Core.pdb

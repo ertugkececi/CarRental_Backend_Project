@@ -9,9 +9,11 @@ CarTest();
 
 static void CarTest()
 {
-    CarManager CarManager = new CarManager(new EfCarDal());
+    CarManager carManager = new CarManager(new EfCarDal());
 
-    foreach (var carDetails in CarManager.GetCarDetails())
+    var carResult = carManager.GetCarDetails();
+
+    foreach (var carDetails in carResult.Data)
     {
         Console.WriteLine($"{carDetails.CarName} - {carDetails.BrandName} - {carDetails.ColorName} - {carDetails.DailyPrice}");
     }

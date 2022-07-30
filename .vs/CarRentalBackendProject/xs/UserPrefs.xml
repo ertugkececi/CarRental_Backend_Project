@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{46A5E9A4-D35F-427F-9F79-D27DBB6E8336}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleUI/Program.cs">
+    <Files>
+      <File FileName="Business/Abstract/ICarService.cs" Line="21" Column="1" />
+      <File FileName="Business/Concrete/CarManager.cs" Line="29" Column="71" />
+      <File FileName="Business/Constants/Messages.cs" Line="21" Column="60" />
+      <File FileName="Business/Concrete/BrandManager.cs" Line="13" Column="29" />
+      <File FileName="Business/Abstract/IBrandService.cs" Line="18" Column="1" />
+      <File FileName="Business/Concrete/ColorManager.cs" Line="45" Column="61" />
+      <File FileName="ConsoleUI/Program.cs" Line="22" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CarRentalBackendProject" expanded="True">
+            <Node name="Business" expanded="True">
+              <Node name="Abstract" expanded="True" />
+              <Node name="Concrete" expanded="True" />
+              <Node name="Constants" expanded="True" />
+            </Node>
+            <Node name="ConsoleUI" expanded="True" />
+            <Node name="Core" expanded="True">
+              <Node name="Utilities" expanded="True">
+                <Node name="Result" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

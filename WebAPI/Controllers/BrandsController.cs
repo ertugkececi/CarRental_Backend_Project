@@ -7,9 +7,10 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace WebAPI.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[action]")]
     [ApiController]
-    public class BrandController : ControllerBase
+    public class BrandsController : ControllerBase
     {
+
     }
 }
